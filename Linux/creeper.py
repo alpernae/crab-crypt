@@ -24,7 +24,7 @@ print(
 
 # INSTALL REQ. FOR LINUX
 
-os.system("apt-get install python3,python3-pip")
+os.system("apt-get install python3 python3-pip")
 os.system("pip install cryptography")
 
 
