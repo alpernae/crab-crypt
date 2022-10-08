@@ -11,3 +11,21 @@ This Tool is made for educational purposes only. Do not attempt to violate the l
 It only demonstrates "how phishing works". You shall not misuse the information to gain unauthorized access to someone's social media. However, you may try out this at your own risk.</i>
 
 ## 
+
+## TO-DO LIST
+
+- [ ] The code block that will be used to upload the generated decryption key to the attacker server will be added.
+- [ ] An interface system will be created where the attacker can see the victims
+- [ ] A code block will be added to detect the directory of the user with whom it is working and encrypt the files in the directory.
+
+##
+
+## Images
+<center>
+
+![This is an image](https://github.com/alpernae/crap-crypt/blob/main/Linux/img/1.png)
+
+<i>ENCRYPTED / DECRYPTED</i>
+
+![This is an image](https://github.com/alpernae/crap-crypt/blob/main/Linux/img/2.png)
+</center>
