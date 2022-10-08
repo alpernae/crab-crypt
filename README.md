@@ -2,7 +2,7 @@
 
 <h3><p align="center">Disclaimer</p></h3>
 
-<i>Any actions and or activities related to crap-crypt are solely your responsibility. The misuse of this toolkit can result in criminal charges brought against the persons in question. The contributors will not be held responsible in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
+<i>Any actions and or activities related to crab-crypt are solely your responsibility. The misuse of this toolkit can result in criminal charges brought against the persons in question. The contributors will not be held responsible in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
 
 This toolkit contains materials that can be potentially damaging or dangerous for social media. Refer to the laws in your province/country before accessing, using, or in any other way utilizing this in the wrong way.
 
@@ -12,9 +12,9 @@ It only demonstrates "how phishing works". You shall not misuse the information 
 
 ## 
 
-# crap-crypt Linux
+# crab-crypt Linux
 
-crap-crypt Linux is a ransomware malware that can run on Linux systems. It is a software that finds the victim's user files and encrypts these files and uploads the generated decryption key to the attacker's server.
+crab-crypt Linux is a ransomware malware that can run on Linux systems. It is a software that finds the victim's user files and encrypts these files and uploads the generated decryption key to the attacker's server.
 
 ##
 
