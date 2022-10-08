@@ -18,6 +18,12 @@ crab-crypt Linux is a ransomware malware that can run on Linux systems. It is a 
 
 ##
 
+# crab-crypt Windows
+
+Coming SOON!
+
+##
+
 ## TO-DO LIST
 
 - [ ] The code block that will be used to upload the generated decryption key to the attacker server will be added.
