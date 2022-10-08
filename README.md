@@ -19,13 +19,3 @@ It only demonstrates "how phishing works". You shall not misuse the information 
 - [ ] A code block will be added to detect the directory of the user with whom it is working and encrypt the files in the directory.
 
 ##
-
-## Images
-<center>
-
-![This is an image](https://github.com/alpernae/crap-crypt/blob/main/Linux/img/1.png)
-
-<i>ENCRYPTED / DECRYPTED</i>
-
-![This is an image](https://github.com/alpernae/crap-crypt/blob/main/Linux/img/2.png)
-</center>
